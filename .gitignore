@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+hardware/History/
+
+hardware/__Previews/
