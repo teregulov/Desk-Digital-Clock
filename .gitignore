@@ -35,6 +35,7 @@ hardware/History/
 
 hardware/__Previews/
 
+<<<<<<< Updated upstream
 *.PcbDocPreview
 
 hardware/Project Logs for DeskDigitalClock/\[02\] - DISPLAY SCH ECO 22\.12\.2018 0-22-15\.LOG
@@ -48,3 +49,6 @@ hardware/Project Logs for DeskDigitalClock/\[02\] - DISPLAY SCH ECO 22\.12\.2018
 hardware/Project Logs for DeskDigitalClock/\[02\] - DISPLAY SCH ECO 22\.12\.2018 0-31-02\.LOG
 
 hardware/Project Logs for DeskDigitalClock/\[02\] - DISPLAY SCH ECO 22\.12\.2018 0-32-45\.LOG
+=======
+*.SchDocPreview
+>>>>>>> Stashed changes
