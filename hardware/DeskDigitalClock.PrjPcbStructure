@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=DeskDigitalClock.SchDoc
-Record=SheetSymbol|SourceDocument=DeskDigitalClock.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[02] - DISPLAY.SchDoc|SymbolType=Normal|RawFileName=[02] - DISPLAY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=DeskDigitalClock.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[01] - CPU.SchDoc|SymbolType=Normal|RawFileName=[01] - CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=[01] - BLOCK DIAGRAM.SchDoc
+Record=SheetSymbol|SourceDocument=[01] - BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[03] - WI-FI MODULE.SchDoc|SymbolType=Normal|RawFileName=[03] - WI-FI MODULE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[01] - BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[03] - DISPLAY.SchDoc|SymbolType=Normal|RawFileName=[03] - DISPLAY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[01] - BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[02] - CPU.SchDoc|SymbolType=Normal|RawFileName=[02] - CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
