@@ -107,57 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LKJWTJPC
 
 [Document5]
-DocumentPath=[02] - DISPLAY.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=[01] - CPU.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=[03] - WI-FI MODULE.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
 DocumentPath=[02] - CPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXJOCOPB
 
-[Document9]
+[Document6]
 DocumentPath=[03] - DISPLAY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMMKHGKT
 
-[Document10]
+[Document7]
 DocumentPath=[04] - CONTROL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKEIGUAX
 
-[Document11]
+[Document8]
 DocumentPath=[05] - RF READER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHVOUSVP
 
-[Document12]
+[Document9]
 DocumentPath=[06] - WI-FI MODULE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JAUMSAVW
 
-[Document13]
+[Document10]
 DocumentPath=[07] - POWER SUPPLY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIMKBEKG
 
-[Document14]
+[Document11]
 DocumentPath=[02] - CPU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document12]
 DocumentPath=[06] - WI-FI MODULE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document13]
 DocumentPath=[03] - DISPLAY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
