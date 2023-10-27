@@ -1,0 +1,268 @@
+Removed Member From Class: ClassName=Designator Member=U1
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?u"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPM3216X18N_TANTAL_E)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "?v"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_8X10.2)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "?v"; VariantName = "[No Variations]"
+Added Component: Designator=D4(CAPM3216X18N_TANTAL_E)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.vishay.com/docs/88768/us1_test_dcicons.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "US1M"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CD127-IND)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?u"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(DPAK-fqd12n20l)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.onsemi.com/download/data-sheet/pdf/fqd12n20l-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "FQD12N20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D-PAK"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?k"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R1206)
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?k"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin A2-8
+Add Pin To Net: Unknown Pin: Pin A2-9
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin D1-4
+Add Pin To Net: Unknown Pin: Pin D1-5
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D1-7
+Add Pin To Net: Unknown Pin: Pin D1-8
+Add Pin To Net: Unknown Pin: Pin D1-9
+Add Pin To Net: Unknown Pin: Pin D1-10
+Add Pin To Net: Unknown Pin: Pin D1-11
+Add Pin To Net: Unknown Pin: Pin D1-12
+Add Pin To Net: Unknown Pin: Pin D1-14
+Add Pin To Net: Unknown Pin: Pin D1-15
+Add Pin To Net: Unknown Pin: Pin D1-16
+Add Pin To Net: Unknown Pin: Pin D1-17
+Add Pin To Net: Unknown Pin: Pin D1-19
+Add Pin To Net: Unknown Pin: Pin D1-20
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-6
+Add Pin To Net: Unknown Pin: Pin D2-7
+Add Pin To Net: Unknown Pin: Pin D2-8
+Add Pin To Net: Unknown Pin: Pin D2-9
+Add Pin To Net: Unknown Pin: Pin D2-10
+Add Pin To Net: Unknown Pin: Pin D2-11
+Add Pin To Net: Unknown Pin: Pin D2-12
+Add Pin To Net: Unknown Pin: Pin D2-14
+Add Pin To Net: Unknown Pin: Pin D2-15
+Add Pin To Net: Unknown Pin: Pin D2-16
+Add Pin To Net: Unknown Pin: Pin D2-17
+Add Pin To Net: Unknown Pin: Pin D2-19
+Add Pin To Net: Unknown Pin: Pin D2-20
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D3-3
+Add Pin To Net: Unknown Pin: Pin D3-4
+Add Pin To Net: Unknown Pin: Pin D3-5
+Add Pin To Net: Unknown Pin: Pin D3-6
+Add Pin To Net: Unknown Pin: Pin D3-7
+Add Pin To Net: Unknown Pin: Pin D3-8
+Add Pin To Net: Unknown Pin: Pin D3-9
+Add Pin To Net: Unknown Pin: Pin D3-10
+Add Pin To Net: Unknown Pin: Pin D3-11
+Add Pin To Net: Unknown Pin: Pin D3-12
+Add Pin To Net: Unknown Pin: Pin D3-14
+Add Pin To Net: Unknown Pin: Pin D3-15
+Add Pin To Net: Unknown Pin: Pin D3-16
+Add Pin To Net: Unknown Pin: Pin D3-17
+Add Pin To Net: Unknown Pin: Pin D3-19
+Add Pin To Net: Unknown Pin: Pin D3-20
+Add Pin To Net: Unknown Pin: Pin E1-1
+Add Pin To Net: Unknown Pin: Pin E1-C
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-C
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Add Pin To Net: Unknown Pin: Pin Q2-B
+Add Pin To Net: Unknown Pin: Pin Q2-C
+Add Pin To Net: Unknown Pin: Pin Q2-E
+Add Pin To Net: Unknown Pin: Pin Q3-B
+Add Pin To Net: Unknown Pin: Pin Q3-C
+Add Pin To Net: Unknown Pin: Pin Q3-E
+Add Pin To Net: Unknown Pin: Pin Q4-B
+Add Pin To Net: Unknown Pin: Pin Q4-C
+Add Pin To Net: Unknown Pin: Pin Q4-E
+Add Pin To Net: Unknown Pin: Pin Q5-B
+Add Pin To Net: Unknown Pin: Pin Q5-C
+Add Pin To Net: Unknown Pin: Pin Q5-E
+Add Pin To Net: Unknown Pin: Pin Q6-B
+Add Pin To Net: Unknown Pin: Pin Q6-C
+Add Pin To Net: Unknown Pin: Pin Q6-E
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U3-3
+Added Net: Name=NetA2_1
+Added Net: Name=NetA2_2
+Added Net: Name=NetA2_5
+Added Net: Name=NetA2_14
+Added Net: Name=NetA2_16
+Added Net: Name=NetB1_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetC10_2
+Added Net: Name=NetC11_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC13_2
+Added Net: Name=NetE1_A
+Added Net: Name=NetE1_B
+Added Net: Name=NetR21_1
+Added Net: Name=NetR22_1
+Added Net: Name=NetR23_2
+Added Net: Name=NetR24_2
+Added Net: Name=NetU2_4
+Added Net: Name=NetU2_6
+Added Net: Name=NetU3_12
+Added Member To Class: ClassName=Designator Member=Component A1 ESP32-S3-WROOM-1
+Add Class Member: Failed to add class member : Component A2 ESP-07
+Add Class Member: Failed to add class member : Component B1 Value
+Added Member To Class: ClassName=Designator Member=Component C1 ?u
+Added Member To Class: ClassName=Designator Member=Component C2 ?u
+Add Class Member: Failed to add class member : Component C3 100n
+Add Class Member: Failed to add class member : Component C4 10n
+Add Class Member: Failed to add class member : Component C5 4.7u
+Added Member To Class: ClassName=Designator Member=Component C6 ?u
+Added Member To Class: ClassName=Designator Member=Component C7 ?u
+Add Class Member: Failed to add class member : Component C8 470n
+Add Class Member: Failed to add class member : Component C9 1u
+Add Class Member: Failed to add class member : Component C10 100n
+Add Class Member: Failed to add class member : Component C11 100n
+Add Class Member: Failed to add class member : Component C12 100n
+Add Class Member: Failed to add class member : Component C13 100n
+Add Class Member: Failed to add class member : Component C14 100n
+Add Class Member: Failed to add class member : Component C15 100n
+Add Class Member: Failed to add class member : Component D1 KCDA04-105
+Add Class Member: Failed to add class member : Component D2 KCDA04-105
+Add Class Member: Failed to add class member : Component D3 KCDA04-105
+Added Member To Class: ClassName=Designator Member=Component D4 Value
+Add Class Member: Failed to add class member : Component E1 PEC11S-929K-S0015
+Added Member To Class: ClassName=Designator Member=Component L1 ?u
+Add Class Member: Failed to add class member : Component L2 ?u
+Add Class Member: Failed to add class member : Component P2 UJ31-CH-31N-SMT-TR
+Add Class Member: Failed to add class member : Component Q1 BC847CW,115
+Add Class Member: Failed to add class member : Component Q2 BC847CW,115
+Add Class Member: Failed to add class member : Component Q3 BC847CW,115
+Add Class Member: Failed to add class member : Component Q4 BC847CW,115
+Add Class Member: Failed to add class member : Component Q5 BC847CW,115
+Add Class Member: Failed to add class member : Component Q6 BC847CW,115
+Added Member To Class: ClassName=Designator Member=Component Q7 FQD12N20L
+Add Class Member: Failed to add class member : Component R1 ?k
+Add Class Member: Failed to add class member : Component R2 ?k
+Add Class Member: Failed to add class member : Component R3 ?k
+Add Class Member: Failed to add class member : Component R4 ?k
+Add Class Member: Failed to add class member : Component R5 ?k
+Add Class Member: Failed to add class member : Component R6 ?k
+Add Class Member: Failed to add class member : Component R7 150
+Add Class Member: Failed to add class member : Component R8 150
+Add Class Member: Failed to add class member : Component R9 150
+Add Class Member: Failed to add class member : Component R10 150
+Add Class Member: Failed to add class member : Component R11 150
+Add Class Member: Failed to add class member : Component R12 150
+Add Class Member: Failed to add class member : Component R13 150
+Add Class Member: Failed to add class member : Component R14 150
+Added Member To Class: ClassName=Designator Member=Component R15 ?k
+Added Member To Class: ClassName=Designator Member=Component R16 ?k
+Added Member To Class: ClassName=Designator Member=Component R17 ?k
+Add Class Member: Failed to add class member : Component R18 ?k
+Add Class Member: Failed to add class member : Component R19 5.1k
+Add Class Member: Failed to add class member : Component R20 5.1k
+Add Class Member: Failed to add class member : Component R21 10k
+Add Class Member: Failed to add class member : Component R22 10k
+Add Class Member: Failed to add class member : Component R23 10k
+Add Class Member: Failed to add class member : Component R24 10m 1%
+Add Class Member: Failed to add class member : Component R25 10k
+Add Class Member: Failed to add class member : Component R26 10k
+Add Class Member: Failed to add class member : Component R27 10k
+Add Class Member: Failed to add class member : Component R28 10k
+Add Class Member: Failed to add class member : Component R29 10k
+Add Class Member: Failed to add class member : Component R30 10k
+Add Class Member: Failed to add class member : Component R31 10k
+Add Class Member: Failed to add class member : Component R32 10k
+Add Class Member: Failed to add class member : Component R33 10k
+Add Class Member: Failed to add class member : Component S1 PTS525SM15SMTR2 LFS
+Add Class Member: Failed to add class member : Component TP1 Test Point
+Add Class Member: Failed to add class member : Component TP2 Test Point
+Add Class Member: Failed to add class member : Component U2 USBLC6-2SC6
+Add Class Member: Failed to add class member : Component U3 BQ27441DRZR-G1A

@@ -1,0 +1,203 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=NetU?_4 Pin=U?-4
+Removed Pin From Net: NetName=VUSB Pin=U?-5
+Removed Pin From Net: NetName=NetU?_6 Pin=U?-6
+Removed Pin From Net: NetName=NetB?_2 Pin=U?-8
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Add Pin To Net: Unknown Pin: Pin A?-1
+Add Pin To Net: Unknown Pin: Pin A?-2
+Add Pin To Net: Unknown Pin: Pin A?-5
+Add Pin To Net: Unknown Pin: Pin A?-8
+Add Pin To Net: Unknown Pin: Pin A?-9
+Add Pin To Net: Unknown Pin: Pin A?-14
+Add Pin To Net: Unknown Pin: Pin A?-16
+Add Pin To Net: Unknown Pin: Pin B?-1
+Add Pin To Net: Unknown Pin: Pin B?-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin D1-4
+Add Pin To Net: Unknown Pin: Pin D1-5
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D1-7
+Add Pin To Net: Unknown Pin: Pin D1-8
+Add Pin To Net: Unknown Pin: Pin D1-9
+Add Pin To Net: Unknown Pin: Pin D1-10
+Add Pin To Net: Unknown Pin: Pin D1-11
+Add Pin To Net: Unknown Pin: Pin D1-12
+Add Pin To Net: Unknown Pin: Pin D1-14
+Add Pin To Net: Unknown Pin: Pin D1-15
+Add Pin To Net: Unknown Pin: Pin D1-16
+Add Pin To Net: Unknown Pin: Pin D1-17
+Add Pin To Net: Unknown Pin: Pin D1-19
+Add Pin To Net: Unknown Pin: Pin D1-20
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-6
+Add Pin To Net: Unknown Pin: Pin D2-7
+Add Pin To Net: Unknown Pin: Pin D2-8
+Add Pin To Net: Unknown Pin: Pin D2-9
+Add Pin To Net: Unknown Pin: Pin D2-10
+Add Pin To Net: Unknown Pin: Pin D2-11
+Add Pin To Net: Unknown Pin: Pin D2-12
+Add Pin To Net: Unknown Pin: Pin D2-14
+Add Pin To Net: Unknown Pin: Pin D2-15
+Add Pin To Net: Unknown Pin: Pin D2-16
+Add Pin To Net: Unknown Pin: Pin D2-17
+Add Pin To Net: Unknown Pin: Pin D2-19
+Add Pin To Net: Unknown Pin: Pin D2-20
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D3-3
+Add Pin To Net: Unknown Pin: Pin D3-4
+Add Pin To Net: Unknown Pin: Pin D3-5
+Add Pin To Net: Unknown Pin: Pin D3-6
+Add Pin To Net: Unknown Pin: Pin D3-7
+Add Pin To Net: Unknown Pin: Pin D3-8
+Add Pin To Net: Unknown Pin: Pin D3-9
+Add Pin To Net: Unknown Pin: Pin D3-10
+Add Pin To Net: Unknown Pin: Pin D3-11
+Add Pin To Net: Unknown Pin: Pin D3-12
+Add Pin To Net: Unknown Pin: Pin D3-14
+Add Pin To Net: Unknown Pin: Pin D3-15
+Add Pin To Net: Unknown Pin: Pin D3-16
+Add Pin To Net: Unknown Pin: Pin D3-17
+Add Pin To Net: Unknown Pin: Pin D3-19
+Add Pin To Net: Unknown Pin: Pin D3-20
+Add Pin To Net: Unknown Pin: Pin E?-1
+Add Pin To Net: Unknown Pin: Pin E?-A
+Add Pin To Net: Unknown Pin: Pin E?-B
+Add Pin To Net: Unknown Pin: Pin E?-C
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-C
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Add Pin To Net: Unknown Pin: Pin Q2-B
+Add Pin To Net: Unknown Pin: Pin Q2-C
+Add Pin To Net: Unknown Pin: Pin Q2-E
+Add Pin To Net: Unknown Pin: Pin Q3-B
+Add Pin To Net: Unknown Pin: Pin Q3-C
+Add Pin To Net: Unknown Pin: Pin Q3-E
+Add Pin To Net: Unknown Pin: Pin Q4-B
+Add Pin To Net: Unknown Pin: Pin Q4-C
+Add Pin To Net: Unknown Pin: Pin Q4-E
+Add Pin To Net: Unknown Pin: Pin Q5-B
+Add Pin To Net: Unknown Pin: Pin Q5-C
+Add Pin To Net: Unknown Pin: Pin Q5-E
+Add Pin To Net: Unknown Pin: Pin Q6-B
+Add Pin To Net: Unknown Pin: Pin Q6-C
+Add Pin To Net: Unknown Pin: Pin Q6-E
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin S?-1
+Add Pin To Net: Unknown Pin: Pin S?-2
+Add Pin To Net: Unknown Pin: Pin TP?-1
+Add Pin To Net: Unknown Pin: Pin TP?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component B? Value
+Add Class Member: Failed to add class member : Component C? 470n
+Add Class Member: Failed to add class member : Component C? 10n
+Add Class Member: Failed to add class member : Component C? 100n
+Add Class Member: Failed to add class member : Component C? 4.7u
+Add Class Member: Failed to add class member : Component C? 1u
+Add Class Member: Failed to add class member : Component L? ?u
+Add Class Member: Failed to add class member : Component R? 5.1k
+Add Class Member: Failed to add class member : Component R? ?k
+Add Class Member: Failed to add class member : Component R? 5.1k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10m 1%
+Add Class Member: Failed to add class member : Component U? BQ27441DRZR-G1A
+Add Class Member: Failed to add class member : Component U? USBLC6-2SC6

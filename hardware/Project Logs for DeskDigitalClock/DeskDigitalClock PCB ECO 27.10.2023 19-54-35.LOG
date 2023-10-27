@@ -1,0 +1,60 @@
+Added Component: Designator=A1(ESP32-S3-WROOM-1)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "espressif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ESP32-S3-WROOM-1"; VariantName = "[No Variations]"
+Added Net: Name=3V3
+Added Net: Name=a
+Added Net: Name=b
+Added Net: Name=c
+Added Net: Name=DP
+Added Net: Name=d
+Added Net: Name=e
+Added Net: Name=f
+Added Net: Name=GND
+Added Net: Name=g
+Added Net: Name=NetA?_1
+Added Net: Name=NetA?_2
+Added Net: Name=NetA?_5
+Added Net: Name=NetA?_14
+Added Net: Name=NetA?_16
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Net: Name=NetD1_3
+Added Net: Name=NetD1_8
+Added Net: Name=NetD2_3
+Added Net: Name=NetD2_8
+Added Net: Name=NetD3_3
+Added Net: Name=NetD3_8
+Added Net: Name=NetE?_A
+Added Net: Name=NetE?_B
+Added Net: Name=NetQ1_B
+Added Net: Name=NetQ2_B
+Added Net: Name=NetQ3_B
+Added Net: Name=NetQ4_B
+Added Net: Name=NetQ5_B
+Added Net: Name=NetQ6_B
+Added Net: Name=NetR1_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_2
+Added Net: Name=NetR4_2
+Added Net: Name=NetR5_2
+Added Net: Name=NetR6_2
+Added Net: Name=NetR7_1
+Added Net: Name=NetR8_1
+Added Net: Name=NetR9_1
+Added Net: Name=NetR10_1
+Added Net: Name=NetR11_1
+Added Net: Name=NetR12_1
+Added Net: Name=NetR13_1
+Added Net: Name=NetR14_1
+Added Net: Name=Vdd
+Added Class: Name=Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
