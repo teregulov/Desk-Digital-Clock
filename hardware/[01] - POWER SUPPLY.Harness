@@ -1,2 +1,2 @@
-Fuel Gauge Data=A\L\R\T\,SDA,SCL
+Fuel Gauge Data=SDA,SCL
 USB=USB_DN,USB_DP
